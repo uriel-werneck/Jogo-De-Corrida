@@ -1,5 +1,5 @@
 # Jogo De Corrida
-Esse jogo foi desenvolvido para objenção de nota em uma disciplina da faculdade
+Esse jogo foi desenvolvido para obtenção de nota em uma disciplina da faculdade
 
 ## Tutorial:
 - Use a tecla esquerda e direita para mover o personagem
